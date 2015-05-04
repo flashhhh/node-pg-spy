@@ -1,0 +1,4 @@
+/lib
+!/lib/.foreverignore
+/node_modules
+/.idea

@@ -1,0 +1,22 @@
+{
+  "env": {
+    "node": true,
+    "mocha": true,
+    "es6": true
+  },
+  "rules": {
+    "strict": 0,
+    "quotes": [
+      1,
+      "single"
+    ],
+    "no-trailing-spaces": 0,
+    "no-multi-spaces": 0,
+    "no-underscore-dangle": 0,
+    "no-loop-func": 0,
+    "dot-notation": 1
+  },
+  "ecmaFeatures": {
+    "modules": true
+  }
+}

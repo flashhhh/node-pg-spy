@@ -1,0 +1,8 @@
+{
+  "host": "localhost",
+  "port": 5432,
+  "logDb": "query_log",
+  "logUser": "postgres",
+  "logPassword": "pg",
+  "proxyPort": 9020
+}
